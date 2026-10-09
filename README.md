@@ -1,13 +1,19 @@
-# Emmanuel Omowumi
+<p align="center">
+  <img src="assets/banner.svg" alt="Emmanuel Omowumi - Data Analyst, Sales at Learn Africa Plc. Curriculum vitae." width="100%">
+</p>
 
-### Data Analyst (Sales, Learn Africa Plc) → Data Engineering | Fintech analytics, pipelines & data storytelling
+<h3 align="center">Data Analyst → Data Engineering | Fintech analytics, pipelines &amp; data storytelling</h3>
 
-📍 Lagos, Nigeria · Open to Data Analyst & Data Engineering roles (on-site, hybrid or remote)
+<p align="center">📍 Lagos, Nigeria · Open to Data Analyst &amp; Data Engineering roles (on-site, hybrid or remote)</p>
+
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-omowumi-98bb03139/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nuelwumi2024-181717?logo=github)](https://github.com/Nuelwumi2024)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-1f5fbf)](https://www.datascienceportfol.io/emmanueloluwatobi201)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:emmanueloluwatobi2015@gmail.com)
+
+</p>
 
 ---
 
