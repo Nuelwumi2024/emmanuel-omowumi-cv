@@ -1,6 +1,6 @@
 # Emmanuel Omowumi
 
-### Data Analyst → Data Engineering | Fintech analytics, pipelines & data storytelling
+### Data Analyst (Sales, Learn Africa Plc) → Data Engineering | Fintech analytics, pipelines & data storytelling
 
 📍 Lagos, Nigeria · Open to Data Analyst & Data Engineering roles (on-site, hybrid or remote)
 
@@ -15,7 +15,7 @@
 
 Data analyst who turns complex, messy data into decisions. I work in **SQL, Python, Power BI and Tableau**, and I am deliberately growing into **data engineering**: pipelines that reconcile, models that are tested, and metrics that have one definition.
 
-My path is unusual and it is an advantage. Several years in **laboratory science, food quality assurance and agricultural operations** taught me to treat data as evidence: validate it, document it, trace deviations to root cause and report findings to management. I now apply that discipline to business and fintech data.
+My path is unusual and it is an advantage. Several years in **laboratory science and food quality assurance** taught me to treat data as evidence: validate it, document it, trace deviations to root cause and report findings to management. I now apply that discipline to business and fintech data.
 
 ## Key achievements
 
@@ -32,8 +32,15 @@ My path is unusual and it is an advantage. Several years in **laboratory science
 
 ## Experience
 
-### Data Analyst · Softrays Information Technology
-*January 2024 – Present · Ilorin, Kwara State, Nigeria*
+### Data Analyst (Sales Department) · Learn Africa Plc
+*June 2025 – Present*
+
+- Currently a **Data Analyst in the Sales Department**, turning sales data into reporting and insight for sales decisions.
+
+**Tools & tech stack:** Python (pandas, NumPy, matplotlib/seaborn) · R (tidyverse) · SQL (MySQL, SQL Server) · Power BI (DAX, Power Query) · Tableau · Microsoft Excel · Statistical analysis (hypothesis testing, correlation, regression) · Basic machine learning (linear regression, decision trees, clustering)
+
+### Senior Data Analyst · Softrays Information Technology
+*January 2023 – March 2025 · Ilorin, Kwara State, Nigeria*
 
 - Build and maintain **Tableau and Power BI dashboards** that track KPIs for projects and teams.
 - Analyse customer survey data in Excel, R and Python to find trends that shape marketing strategy.
@@ -41,21 +48,18 @@ My path is unusual and it is an advantage. Several years in **laboratory science
 - Work with cross-functional teams to turn findings into reports, presentations and clear recommendations.
 - Query relational databases with SQL for filtering and aggregation, and apply statistical methods (hypothesis testing, correlation, regression).
 
+**Tools & tech stack:** Python (pandas, NumPy, matplotlib/seaborn) · R (tidyverse) · SQL (MySQL, SQL Server) · Power BI (DAX, Power Query) · Tableau · Microsoft Excel · Basic machine learning (linear regression, decision trees, clustering)
+
 ### Quality In-Process Analyst · Olam
 *February 2021 – December 2023 · Ilorin, Kwara State, Nigeria*
 
-- Ran quality checks and **microbiological analysis** on raw materials, in-process samples and finished livestock-feed products to prevent contamination.
+- Analysed quality and **microbiological test data** from raw materials, in-process samples and finished livestock-feed products to detect and prevent contamination.
 - Wrote and rolled out **SOPs** and quality control procedures that kept product quality consistent.
-- Led **risk assessments and root cause analysis** on quality deviations.
+- Led **risk assessments and root cause analysis** on quality deviations, using data to trace causes.
 - Produced QA reports with **trend analysis and non-conformance reports** for management.
 - Kept production compliant with **GMP, GHP and HACCP**, and trained production staff in food safety.
 
-### Green House Manager · Vine Dresser Farm, Food & Processing Ltd
-*November 2017 – December 2018 · Owode, Ogun State, Nigeria*
-
-- Managed daily greenhouse operations: cultivation, irrigation, pest control and climate control.
-- **Analysed sensor and crop-monitoring data** to spot trends, optimise processes and decide on inputs.
-- Kept records of yields, production costs and environmental data; supervised and trained staff.
+**Tools & tech stack:** Laboratory Information Management System (LIMS) · Microsoft Excel (data logging, trend analysis, charts) · Statistical analysis · SOP / QMS documentation · GLP, GMP, GHP and HACCP frameworks
 
 ## Featured projects
 
