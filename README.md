@@ -71,10 +71,10 @@ My path is unusual and it is an advantage. Several years in **laboratory science
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [**Naira Payments ETL Pipeline**](https://github.com/Nuelwumi2024/naira-payments-etl-pipeline) | Batch ETL, star schema, bad-record quarantine, row-count reconciliation, quality gates that fail the run, audit table, Airflow DAG | Python, pandas, DuckDB, SQL, pytest, Airflow, GitHub Actions |
-| [**Fintech dbt Analytics Warehouse**](https://github.com/Nuelwumi2024/fintech-dbt-analytics-warehouse) | Layered dbt models (staging → marts), 12 tests incl. FK integrity, custom singular test, Jinja macros, CI | dbt, DuckDB, SQL, Jinja, GitHub Actions |
-| [**Transaction Fraud Analysis**](https://github.com/Nuelwumi2024/transaction-fraud-analysis) | Fraud lift by segment, rule precision/recall trade-offs, review-queue sizing, ranked recommendation | SQL, Python, DuckDB, Matplotlib |
-| [**Wallet Churn & Retention Story**](https://github.com/Nuelwumi2024/wallet-churn-retention-story) | Cohort retention heatmap, channel quality, activation analysis with a correlation-vs-causation caveat | SQL, Python, DuckDB, Matplotlib |
+| [**Naira Payments ETL Pipeline**](https://github.com/Nuelwumi2024/naira-payments-etl-pipeline) | Batch ETL, star schema, bad-record quarantine, row-count reconciliation, quality gates that fail the run, audit table, Airflow DAG | Python, pandas, SQL, pytest, Airflow, GitHub Actions |
+| [**Fintech dbt Analytics Warehouse**](https://github.com/Nuelwumi2024/fintech-dbt-analytics-warehouse) | Layered dbt models (staging → marts), 12 tests incl. FK integrity, custom singular test, Jinja macros, CI | dbt, SQL, Jinja, GitHub Actions |
+| [**Transaction Fraud Analysis**](https://github.com/Nuelwumi2024/transaction-fraud-analysis) | Fraud lift by segment, rule precision/recall trade-offs, review-queue sizing, ranked recommendation | SQL, Python, Matplotlib |
+| [**Wallet Churn & Retention Story**](https://github.com/Nuelwumi2024/wallet-churn-retention-story) | Cohort retention heatmap, channel quality, activation analysis with a correlation-vs-causation caveat | SQL, Python, Matplotlib |
 | [**Loan Portfolio Risk Dashboard**](https://github.com/Nuelwumi2024/loan-portfolio-risk-dashboard) | PAR 30/60/90, NPL proxy, vintage curves, segment delinquency, unit-tested metric definitions | Python, pandas, Matplotlib, pytest |
 | [**Data Portfolio Interview Guide**](https://github.com/Nuelwumi2024/data-portfolio-interview-guide) | Documentation of the five projects above: trade-offs, results and honest limitations | Markdown |
 
@@ -89,8 +89,8 @@ My path is unusual and it is an advantage. Several years in **laboratory science
 | Area | Tools & concepts |
 | --- | --- |
 | Languages | Python, SQL, R |
-| Data engineering | ETL/ELT design, star-schema modelling, dbt, DuckDB, data-quality testing, Airflow (DAG authoring), GitHub Actions CI |
-| Databases | MySQL, SQL Server, DuckDB |
+| Data engineering | ETL/ELT design, star-schema modelling, dbt, data-quality testing, Airflow (DAG authoring), GitHub Actions CI |
+| Databases | MySQL, SQL Server |
 | BI & visualisation | Power BI, Tableau, Excel, DAX |
 | Data processing | pandas, NumPy, Power Query, data wrangling |
 | Analytics | Cohort and retention analysis, statistical analysis, regression, risk and KPI reporting |
