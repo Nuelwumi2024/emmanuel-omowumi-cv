@@ -34,7 +34,7 @@ My path is unusual and it is an advantage. Several years in **laboratory science
 | **Credit risk** | Implemented PAR 30/60/90, NPL proxy and vintage analysis as unit-tested code on a NGN 46.1m book (PAR 30 = 17.1%, PAR 90 = 11.7%). |
 | **Career** | Moved from microbiology and quality assurance into analytics, with a Master's degree and a growing record of hands-on analytics work. |
 
-> All portfolio projects use **synthetic, seeded data** that mimics a Nigerian payments and lending business. This is stated in each repo. The point is method and engineering judgement.
+> The fintech projects use **synthetic, seeded data** that mimics a Nigerian payments and lending business, and say so in each repo. The hospital readmissions project uses **real, public CMS Medicare data**. The point is method and engineering judgement.
 
 ## Experience
 
@@ -75,6 +75,7 @@ My path is unusual and it is an advantage. Several years in **laboratory science
 | [**Fintech dbt Analytics Warehouse**](https://github.com/Nuelwumi2024/fintech-dbt-analytics-warehouse) | Layered dbt models (staging → marts), 12 tests incl. FK integrity, custom singular test, Jinja macros, CI | dbt, SQL, Jinja, GitHub Actions |
 | [**Transaction Fraud Analysis**](https://github.com/Nuelwumi2024/transaction-fraud-analysis) | Fraud lift by segment, rule precision/recall trade-offs, review-queue sizing, ranked recommendation | SQL, Python, Matplotlib |
 | [**Wallet Churn & Retention Story**](https://github.com/Nuelwumi2024/wallet-churn-retention-story) | Cohort retention heatmap, channel quality, activation analysis with a correlation-vs-causation caveat | SQL, Python, Matplotlib |
+| [**Hospital Readmissions Analysis**](https://github.com/Nuelwumi2024/hospital-readmissions-analysis) | **Real CMS Medicare data** (3,055 hospitals): heart failure and pneumonia drive 77% of excess readmissions; 561 consistently worse hospitals generate 49%, tested against chance | Python, pandas, Matplotlib, Power BI (DAX) |
 | [**Loan Portfolio Risk Dashboard**](https://github.com/Nuelwumi2024/loan-portfolio-risk-dashboard) | PAR 30/60/90, NPL proxy, vintage curves, segment delinquency, unit-tested metric definitions | Python, pandas, Matplotlib, pytest |
 | [**Data Portfolio Interview Guide**](https://github.com/Nuelwumi2024/data-portfolio-interview-guide) | Documentation of the five projects above: trade-offs, results and honest limitations | Markdown |
 
