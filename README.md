@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-omowumi-98bb03139/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nuelwumi2024-181717?logo=github)](https://github.com/Nuelwumi2024)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-1f5fbf)](https://www.datascienceportfol.io/emmanueloluwatobi201)
+
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:emmanueloluwatobi2015@gmail.com)
 
 </p>
