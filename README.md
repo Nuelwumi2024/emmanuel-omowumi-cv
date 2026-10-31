@@ -4,7 +4,7 @@
 
 <h3 align="center">Data Analyst → Data Engineering | Fintech analytics, pipelines &amp; data storytelling</h3>
 
-<p align="center">📍 Lagos, Nigeria · Open to Data Analyst &amp; Data Engineering roles (on-site, hybrid or remote)</p>
+<p align="center">📍 Ibadan, Nigeria · Open to Data Analyst &amp; Data Engineering roles (on-site, hybrid or remote)</p>
 
 <p align="center">
 
